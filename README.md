@@ -1,4 +1,4 @@
-| First Header  | Second Header |
+| 구분  | 제목 | 
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
